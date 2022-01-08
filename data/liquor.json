@@ -13,8 +13,8 @@
       "strIngredient2": "Ginger ale",
       "strIngredient3": "Ice",
       "strMeasure1": "2 1/2 shots",
-      "priceKr": "11000",
-      "price": "10"
+      "priceKr": 11000,
+      "price": 10
     },
     {
       "idDrink": "17222",
@@ -33,8 +33,8 @@
       "strMeasure2": "1 Shot ",
       "strMeasure3": "1/4 Shot",
       "strMeasure4": "1/8 Shot",
-      "priceKr": "12000",
-      "price": "11"
+      "priceKr": 12000,
+      "price": 11
     },
     {
       "idDrink": "13501",
@@ -51,8 +51,8 @@
       "strMeasure1": "1/3 ",
       "strMeasure2": "1/3 ",
       "strMeasure3": "1/3 ",
-      "priceKr": "15000",
-      "price": "14"
+      "priceKr": 15000,
+      "price": 14
     },
     {
       "idDrink": "17203",
@@ -68,8 +68,8 @@
       "strIngredient2": "Champagne",
       "strMeasure1": "1 part ",
       "strMeasure2": "5 parts ",
-      "priceKr": "14000",
-      "price": "13"
+      "priceKr": 14000,
+      "price": 13
     },
     {
       "idDrink": "14229",
@@ -86,8 +86,8 @@
       "strMeasure1": "1/3 part ",
       "strMeasure2": "1/3 part ",
       "strMeasure3": "1/3 part ",
-      "priceKr": "11000",
-      "price": "10"
+      "priceKr": 11000,
+      "price": 10
     },
     {
       "idDrink": "15288",
@@ -102,8 +102,8 @@
       "strIngredient2": "Wild Turkey",
       "strMeasure1": "1/2 shot Bacardi ",
       "strMeasure2": "1/2 shot ",
-      "priceKr": "14000",
-      "price": "13"
+      "priceKr": 14000,
+      "price": 13
     },
     {
       "idDrink": "17225",
@@ -124,8 +124,8 @@
       "strMeasure3": "1/2 shot ",
       "strMeasure4": "1/2 shot",
       "strMeasure5": "1/2 Fresh",
-      "priceKr": "13000",
-      "price": "12"
+      "priceKr": 13000,
+      "price": 12
     },
     {
       "idDrink": "17837",
@@ -143,8 +143,8 @@
       "strMeasure1": "2 oz ",
       "strMeasure2": "1 oz ",
       "strMeasure3": "1 tsp ",
-      "priceKr": "15000",
-      "price": "14"
+      "priceKr": 15000,
+      "price": 14
     },
     {
       "idDrink": "13332",
@@ -161,8 +161,8 @@
       "strMeasure1": "1/3 shot ",
       "strMeasure2": "1/3 shot ",
       "strMeasure3": "1/3 shot ",
-      "priceKr": "15000",
-      "price": "14"
+      "priceKr": 15000,
+      "price": 14
     },
     {
       "idDrink": "13938",
@@ -179,8 +179,8 @@
       "strMeasure1": "1 oz ",
       "strMeasure2": "1 oz ",
       "strMeasure3": "4 oz ",
-      "priceKr": "13000",
-      "price": "12"
+      "priceKr": 13000,
+      "price": 12
     },
     {
       "idDrink": "14610",
@@ -195,8 +195,8 @@
       "strIngredient2": "Wild Turkey",
       "strMeasure1": "1 oz Bacardi ",
       "strMeasure2": "1 oz ",
-      "priceKr": "10000",
-      "price": "9"
+      "priceKr": 10000,
+      "price": 9
     },
     {
       "idDrink": "15853",
@@ -215,8 +215,8 @@
       "strMeasure1": "1/3 ",
       "strMeasure2": "1/3 ",
       "strMeasure3": "1/4 ",
-      "priceKr": "12000",
-      "price": "11"
+      "priceKr": 12000,
+      "price": 11
     },
     {
       "idDrink": "16262",
@@ -232,8 +232,8 @@
       "strIngredient3": "Coffee",
       "strMeasure1": "4 cl ",
       "strMeasure2": "8 cl ",
-      "priceKr": "7000",
-      "price": "6"
+      "priceKr": 7000,
+      "price": 6
     },
     {
       "idDrink": "17141",
@@ -252,8 +252,8 @@
       "strMeasure2": "1 shot ",
       "strMeasure3": "1/3 part ",
       "strMeasure4": "1/3 part ",
-      "priceKr": "12000",
-      "price": "11"
+      "priceKr": 12000,
+      "price": 11
     },
     {
       "idDrink": "17208",
@@ -277,8 +277,8 @@
       "strMeasure3": "1/2 oz ",
       "strMeasure4": "1/2 tsp ",
       "strMeasure5": "1 tsp ",
-      "priceKr": "18000",
-      "price": "17"
+      "priceKr": 18000,
+      "price": 17
     },
     {
       "idDrink": "17833",
@@ -293,8 +293,8 @@
       "strIngredient2": "Grapefruit juice",
       "strMeasure1": "1 1/2 oz ",
       "strMeasure2": "1 oz ",
-      "priceKr": "19000",
-      "price": "18"
+      "priceKr": 19000,
+      "price": 18
     },
     {
       "idDrink": "17187",
@@ -314,8 +314,8 @@
       "strMeasure1": "6 cl",
       "strMeasure2": "2 dashes",
       "strMeasure3": "2 Fresh leaves",
-      "priceKr": "17000",
-      "price": "16"
+      "priceKr": 17000,
+      "price": 16
     },
     {
       "idDrink": "12764",
@@ -330,8 +330,8 @@
       "strIngredient2": "Grain alcohol",
       "strMeasure1": "1 part ",
       "strMeasure2": "2 parts ",
-      "priceKr": "13000",
-      "price": "12"
+      "priceKr": 13000,
+      "price": 12
     },
     {
       "idDrink": "12776",
@@ -345,8 +345,8 @@
       "strIngredient1": "Espresso",
       "strIngredient2": "Honey",
       "strIngredient3": "Cocoa powder",
-      "priceKr": "8000",
-      "price": "7"
+      "priceKr": 8000,
+      "price": 7
     },
     {
       "idDrink": "14598",
@@ -363,8 +363,8 @@
       "strMeasure1": "2 1/2 oz ",
       "strMeasure2": "1 splash ",
       "strMeasure3": "Fill with ",
-      "priceKr": "18000",
-      "price": "17"
+      "priceKr": 18000,
+      "price": 17
     },
     {
       "idDrink": "15328",
@@ -381,8 +381,8 @@
       "strMeasure1": "2 cl ",
       "strMeasure2": "2 cl ",
       "strMeasure3": "2 cl ",
-      "priceKr": "6000",
-      "price": "5"
+      "priceKr": 6000,
+      "price": 5
     },
     {
       "idDrink": "17254",
@@ -401,8 +401,8 @@
       "strMeasure2": "1 oz",
       "strMeasure3": "1 oz",
       "strMeasure4": "1 oz",
-      "priceKr": "13000",
-      "price": "12"
+      "priceKr": 13000,
+      "price": 12
     },
     {
       "idDrink": "17839",
@@ -420,8 +420,8 @@
       "strMeasure1": "2 oz ",
       "strMeasure2": "2 oz ",
       "strMeasure3": "2 oz ",
-      "priceKr": "14000",
-      "price": "13"
+      "priceKr": 14000,
+      "price": 13
     },
     {
       "idDrink": "11149",
@@ -442,11 +442,11 @@
       "strMeasure3": "1 tsp ",
       "strMeasure4": "1/2 tsp ",
       "strMeasure5": "1 ",
-      "priceKr": "15000",
-      "price": "14"
+      "priceKr": 15000,
+      "price": 14
     },
     {
-      "idDrink": "11872",
+      "idDrink": 11872,
       "strDrink": "Dry Martini",
       "strCategory": "Ordinary Drink",
       "strAlcoholic": "Alcoholic",
@@ -464,8 +464,8 @@
       "strMeasure3": "1/2 oz ",
       "strMeasure4": "1/2 oz ",
       "strMeasure5": "1 oz ",
-      "priceKr": "18000",
-      "price": "17"
+      "priceKr": 18000,
+      "price": 17
     }
   ]
 }
