@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "AlleVongole",
+      "type": "tomato",
+      "price": 19.99,
+      "image": "https://i.ibb.co/tbCd9DJ/alle-Vongole.png"
+    },
+    {
+      "id": "2",
+      "name": "Tomato",
+      "type": "tomato",
+      "price": 12.99,
+      "image": "https://i.ibb.co/JdWXkCc/tomato-Spaghetti.png"
+    },
+    {
+      "id": "3",
+      "name": "AglioOlio",
+      "type": "cream",
+      "price": 14.99,
+      "image": "https://i.ibb.co/r0Ccx1g/Aglio-Olio.png"
+    },
+    {
+      "id": "4",
+      "name": "Bolognese",
+      "type": "cream",
+      "price": 15.99,
+      "image": "https://i.ibb.co/FY6wN4N/Bolognese.png"
+    },
+    {
+      "id": "5",
+      "name": "Carbonara",
+      "type": "cream",
+      "price": 12.99,
+      "image": "https://i.ibb.co/JpyxKDZ/Carbonara.png"
+    },
+    {
+      "id": "6",
+      "name": "Lasagne",
+      "type": "side",
+      "price": 9.0,
+      "image": "https://i.ibb.co/Wkyd7hP/Lasagne.png"
+    },
+    {
+      "id": "7",
+      "name": "PastaSalad",
+      "type": "side",
+      "price": 8.99,
+      "image": "https://i.ibb.co/D5g3SvT/Pasta-Salad.png"
+    },
+    {
+      "id": "8",
+      "name": "Macaronnes",
+      "type": "side",
+      "price": 8.0,
+      "image": "https://i.ibb.co/JjrHrgs/Macaronnes.png"
+    },
+    {
+      "id": "9",
+      "name": "Shrimp",
+      "type": "side",
+      "price": 10.99,
+      "image": "https://i.ibb.co/QP5Kvc6/Shrimp.png"
+    },
+    {
+      "id": "10",
+      "name": "Water",
+      "type": "free",
+      "price": 1,
+      "image": "https://i.ibb.co/PtLkHC8/water.png"
+    },
+    {
+      "id": "11",
+      "name": "RedWine",
+      "type": "wine",
+      "price": 21.99,
+      "image": "https://i.ibb.co/zS5HBwD/redWine.png"
+    },
+    {
+      "id": "12",
+      "name": "WhiteWine",
+      "type": "wine",
+      "price": 21.99,
+      "image": "https://i.ibb.co/64g8MtY/white-Wine.png"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Hoyeoun Byun",
+      "review": "This cozy restaurant has left the best impressions! Hospitable hosts, delicious dishes, beautiful presentation, wide wine list and wonderful dessert. I recommend to everyone! I would like to come back here again and again.",
+      "image": "https://i.ibb.co/YB7YB2P/Hoyeoun-Byun.jpg"
+    },
+    {
+      "name": "Ladaysha Mullins",
+      "review": "First time in (RN) and YOU have to go! It’s the cutest little spot with amazing food. The (FN) is to die for. IT WAS FIRE!! The service we received was so amazing and we will definitely be back again. They made us feel welcomed and gave us an amazing experience.",
+      "image": "https://i.ibb.co/brQqpSQ/La-Daysha-Mullins.jpg"
+    },
+    {
+      "name": "John Doe",
+      "review": "It’s a great experience. The ambiance is very welcoming and charming. Amazing wines, food and service. Staff are extremely knowledgeable and make great recommendations.",
+      "image": "https://i.ibb.co/9wWBcX7/JohnDoe.jpg"
+    },
+    {
+      "name": "Eddie Money",
+      "review": "This place is great! Atmosphere is chill and cool but the staff is also really friendly. They know what they’re doing and what they’re talking about, and you can tell making the customers happy is their main priority. Food is pretty good, some italian classics and some twists, and for their prices it’s 100% worth it.",
+      "image": "https://i.ibb.co/HrxyF9k/eddie-Money.png"
+    }
+  ]
+}
